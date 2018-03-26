@@ -1,7 +1,10 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s):Clayton Bruce
+  	Date: 3/25/2018
+  	
+  	IM STRUGGLEING WITH THE NESTED LOOPS.. I GUESS IM PRETTY RUSTY I WILL BRING THIS TO CLASS ON MONDAY AND ASK FOR HELP! I UNDERSTAND IF IT WILL BE GRADED AS LATE
+  	SEE YOU MONDAY!
 */
 
 
@@ -13,7 +16,14 @@
   
 Line Number		| HEADING		| HEADING		| HEADING		| HEADING		| HEADING		|	
 
+22 Characters in a line 
+4 // per after the first line 
++4 // per each line after 
+4// to 20// total
 
+
+22! -4 after first line
+22! -4 more ever line after 
 
 
 
@@ -31,6 +41,17 @@ public class P2_SlashesAndBangs {
 
 	public static void main(String[] args) {
 
+		for(int i =0; i<22; i++) {
+			System.out.print("!");
+		}
+		System.out.println();
+		for(int i =0 ; i<2; i++) {
+			System.out.print("/");
+			for() {
+				System.out.print();
+			}
+			
+		}
 	}
 
 }
