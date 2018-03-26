@@ -9,7 +9,7 @@
 public class P5_ScalableBox {
 
 	public static void main(String[] args) {
-		int height = 0;
+		
 		drawBoxCap();
 		drawBoxInsides();
 		drawBoxCap();
